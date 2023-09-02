@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Samuel.
-- 👀 I'm walking towards the full.
+- 👀 I'm walking towards the master.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I'm looking to collaborate only on schoolwork at the moment.
 
